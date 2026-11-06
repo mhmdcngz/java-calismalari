@@ -1,0 +1,20 @@
+### Derleme çıktıları ###
+out/
+bin/
+*.class
+
+### IDE dosyaları ###
+.idea/
+*.iml
+.vs/
+.vscode/
+
+### Bağımlılıklar (README'de nasıl indirileceği yazıyor) ###
+*.jar
+
+### Program çalışınca oluşan dosyalar ###
+File/sifre.txt
+
+### İşletim sistemi ###
+.DS_Store
+Thumbs.db
